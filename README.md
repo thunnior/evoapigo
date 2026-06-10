@@ -118,3 +118,12 @@ print_r($response);
 ```php
     - health()
 ```
+
+- Contato
+💻 GitHub: thunnior
+
+📧 Email: thalesjunior.moreira@gmail.com
+
+☕ Buy me a coffee
+
+Sponsor me
