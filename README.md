@@ -126,4 +126,4 @@ print_r($response);
 
 ☕ Buy me a coffee
 
-Sponsor me
+[❤️ Sponsor our project on GitHub Sponsors](https://github.com/sponsor/thunnior)
