@@ -17,9 +17,8 @@ use Evoapigo\EvoApiGo;
 
 $api = new EvoApiGo('https://api.evolution-go.example.com', 'YOUR_API_KEY');
 
+//Retorna um Objeto da Instância da Conexão
 $response = $api->instance->create( 'name' => 'Teste' );
-
-Retorna um Objeto da Instância da Conexão
 
 print_r($response);
 ```
