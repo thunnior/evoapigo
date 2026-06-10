@@ -1,0 +1,34 @@
+{
+    "name": "thunnior/evoapigo",
+    "version": "dev-main",
+    "description": "SDK PHP Evolution Go Whatsapp",
+    "type": "library",
+    "homepage": "https://github.com/thunnior/evoapigo",
+    "license": "MIT",
+    "keywords": [
+        "whatsapp",
+        "evolution-go",
+        "api",
+        "sdk",
+        "php"
+    ],
+    "require": {
+        "php": ">=8.2",
+        "guzzlehttp/guzzle": "^7.0",
+        "ramsey/uuid": "^4.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Evoapigo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thunnior"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thunnior/evoapigo.git"
+    }
+}
